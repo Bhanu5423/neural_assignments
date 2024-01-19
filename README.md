@@ -2,7 +2,12 @@ Name :bhanu chand garikapati
 student#:700748274
 
 VIDEO PRESENTATION LINK:-
+assignment-1
 https://github.com/Bhanu5423/neural_assignments/assets/133926556/6ccba6f7-78bd-4eaa-aa81-a042ce6edf31
+
+assignment-2
+
+
 
 
 
