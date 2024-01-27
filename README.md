@@ -9,6 +9,12 @@ assignment-2
 
 https://github.com/Bhanu5423/neural_assignments/assets/133926556/6ccba6f7-78bd-4eaa-aa81-a042ce6edf31
 
+asssignment-3:
+
+
+
+
+
 
 
 
