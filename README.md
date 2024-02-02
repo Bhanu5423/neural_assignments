@@ -13,6 +13,9 @@ asssignment-3:
 
 https://github.com/Bhanu5423/neural_assignments/assets/133926556/f9dc1ccb-2f16-4ed4-92ca-be870b891617
 
+ASSIGNMENT_4:-
+
+https://github.com/Bhanu5423/neural_assignments/assets/133926556/293c60bd-2a82-4d09-9f47-fb1a4432f3a9
 
 
 
