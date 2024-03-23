@@ -29,6 +29,11 @@ assignment-7
 
 https://github.com/Bhanu5423/neural_assignments/assets/133926556/f9dc1ccb-2f16-4ed4-92ca-be870b891617
 
+assignment-8
+
+https://github.com/Bhanu5423/neural_assignments/assets/133926556/f9dc1ccb-2f16-4ed4-92ca-be870b891617
+
+
 
 
 
